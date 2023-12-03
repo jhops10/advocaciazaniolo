@@ -8,6 +8,7 @@ import { FooterComponent } from './shared/footer/footer.component';
 import { HomeComponent } from './pages/home/home.component';
 import { AboutComponent } from './pages/about/about.component';
 import { TopperComponent } from './shared/topper/topper.component';
+import { CardComponent } from './shared/card/card.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { TopperComponent } from './shared/topper/topper.component';
     HomeComponent,
     AboutComponent,
     TopperComponent,
+    CardComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
