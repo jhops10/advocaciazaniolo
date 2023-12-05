@@ -10,6 +10,8 @@ import { AboutComponent } from './pages/about/about.component';
 import { TopperComponent } from './shared/topper/topper.component';
 import { CardComponent } from './shared/card/card.component';
 import { BannerComponent } from './shared/banner/banner.component';
+import { OccupationAreaComponent } from './pages/occupation-area/occupation-area.component';
+import { ContactComponent } from './pages/contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +23,8 @@ import { BannerComponent } from './shared/banner/banner.component';
     TopperComponent,
     CardComponent,
     BannerComponent,
+    OccupationAreaComponent,
+    ContactComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
