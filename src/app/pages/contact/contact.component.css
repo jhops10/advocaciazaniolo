@@ -1,0 +1,8 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.icone-facebook, .icone-whatsapp, .icone-card {
+  font-size: 1.8rem;
+}
