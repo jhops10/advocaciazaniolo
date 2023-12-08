@@ -1,0 +1,10 @@
+.footerEdit {
+  font-size: 0.7rem;
+ bottom: 0;
+}
+
+.footerEdit a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
